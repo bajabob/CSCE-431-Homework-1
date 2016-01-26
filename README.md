@@ -1,6 +1,8 @@
 ### Notes
 This is my first experience working with Ruby, as such this code is a result of what I've read in class and online in the past week. Given a set of failing test cases, we were tasked with filling in the empty code blocks (see ASSIGNMENT.md). Commits to this project reflect completed test cases, all cases now pass.
 
+![Passing Tests](completed-tests.png)
+
 ### Plagiarism Notice
 If you are working on an assignment for a University or High School course you must check with your professor and/or school's guidelines on plagiarism before copying any work found in this codebase. The author of this code is not to be held responsible for acts of cheating or misconduct. The author, much like the creator of a scholastic paper or article has decided to post this codebase for educational purposes. If you are a professor or course admin that is having an issue with cheating in your class, please feel free to contact the author.
 
